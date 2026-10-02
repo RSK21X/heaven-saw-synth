@@ -1,0 +1,3 @@
+Version 1.0.1
+/Library/Audio/Plug-Ins/VST3/Heaven Saw Synth.vst3
+All file hashes match; codesign --verify --deep --strict passed.

@@ -1,0 +1,23 @@
+[
+  {
+    "input": "demo-before-dry.wav",
+    "gain_dB": -3.6799999999999997,
+    "loudness_LUFS": "-17.99",
+    "true_peak_dBTP": "-6.81",
+    "processing": "constant gain only; no additional dynamics"
+  },
+  {
+    "input": "demo-after-dry.wav",
+    "gain_dB": -10.059999999999999,
+    "loudness_LUFS": "-18.00",
+    "true_peak_dBTP": "-10.39",
+    "processing": "constant gain only; no additional dynamics"
+  },
+  {
+    "input": "demo-after-drop.wav",
+    "gain_dB": -10.09,
+    "loudness_LUFS": "-17.94",
+    "true_peak_dBTP": "-10.34",
+    "processing": "constant gain only; no additional dynamics"
+  }
+]

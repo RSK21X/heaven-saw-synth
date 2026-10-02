@@ -1,0 +1,21 @@
+PASS Editor construction, advanced controls, and snapshots
+PASS Sample rates, buffer sizes, and finite output
+PASS Overlapping chords retain independent ownership
+PASS Chord toggle and same-key retrigger release correctly
+PASS Sustain and panic messages release the full chord
+PASS Pitch wheel before note-on matches wheel after note-on
+PASS MIDI note offset leaves the start of the block silent
+PASS Oversized buffers match bounded processing
+PASS Host PUMP sync remains consistent across block sizes
+PASS Every parameter and the selected program survive state recall
+PASS Factory presets restore full settings and chord modes
+PASS Detune changes the rendered sound
+PASS Reprepare clears voices, effect tails, and delay memory
+PASS Extreme macro settings and voice stealing respect the ceiling
+PASS Dry default has true stereo information and retains its mono centre
+PASS AIR changes upper spectrum without acting as an overall volume control
+PASS BODY adds low-mid harmonics while retaining stereo width
+PASS SIZE grows ensemble energy and stereo information
+PASS Factory families restore distinct envelope, filter, and detune settings
+PASS Upper layer remains finite through C5-C8 and the highest MIDI notes
+20 checks passed, 0 failed

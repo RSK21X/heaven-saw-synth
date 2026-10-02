@@ -1,0 +1,23 @@
+# Build output and generated dependencies
+/build*/
+/cmake-build-*/
+/snapshots/
+*.vst3/
+*.component/
+*.zip
+*.dmg
+*.o
+*.dSYM/
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+
+# Machine files and credentials
+.DS_Store
+._*
+.env
+.env.*
+*.key
+*.pem
+.idea/
+.vscode/

@@ -1,0 +1,164 @@
+[
+  {
+    "case": "air0-dry",
+    "rms_dBFS": -19.62,
+    "peak_dBFS": -7.47,
+    "correlation": 0.989,
+    "side_to_mid_dB": -22.64,
+    "mono_loss_dB": -0.02,
+    "low_side_to_mid_dB": -30.01,
+    "band_energy_percent": {
+      "20-130Hz": 8.16,
+      "130-650Hz": 77.48,
+      "650-2000Hz": 11.7,
+      "2000-6000Hz": 2.43,
+      "6000-20000Hz": 0.23
+    },
+    "air_band_fraction": 0.00648616198273084,
+    "body_band_fraction": 0.6545459073851532
+  },
+  {
+    "case": "air100-dry",
+    "rms_dBFS": -19.51,
+    "peak_dBFS": -6.99,
+    "correlation": 0.987,
+    "side_to_mid_dB": -21.97,
+    "mono_loss_dB": -0.03,
+    "low_side_to_mid_dB": -28.06,
+    "band_energy_percent": {
+      "20-130Hz": 6.87,
+      "130-650Hz": 75.95,
+      "650-2000Hz": 14.06,
+      "2000-6000Hz": 2.85,
+      "6000-20000Hz": 0.27
+    },
+    "air_band_fraction": 0.007632199209641185,
+    "body_band_fraction": 0.6673271104890776
+  },
+  {
+    "case": "body0-dry",
+    "rms_dBFS": -22.12,
+    "peak_dBFS": -9.81,
+    "correlation": 0.978,
+    "side_to_mid_dB": -19.48,
+    "mono_loss_dB": -0.05,
+    "low_side_to_mid_dB": -21.54,
+    "band_energy_percent": {
+      "20-130Hz": 2.61,
+      "130-650Hz": 66.47,
+      "650-2000Hz": 25.48,
+      "2000-6000Hz": 4.97,
+      "6000-20000Hz": 0.47
+    },
+    "air_band_fraction": 0.013357348250461443,
+    "body_band_fraction": 0.7276116390090225
+  },
+  {
+    "case": "body100-dry",
+    "rms_dBFS": -14.57,
+    "peak_dBFS": -3.59,
+    "correlation": 0.997,
+    "side_to_mid_dB": -28.07,
+    "mono_loss_dB": -0.01,
+    "low_side_to_mid_dB": -54.41,
+    "band_energy_percent": {
+      "20-130Hz": 17.23,
+      "130-650Hz": 78.3,
+      "650-2000Hz": 3.62,
+      "2000-6000Hz": 0.77,
+      "6000-20000Hz": 0.07
+    },
+    "air_band_fraction": 0.002092850255348936,
+    "body_band_fraction": 0.5149197421598193
+  },
+  {
+    "case": "default-dry",
+    "rms_dBFS": -19.54,
+    "peak_dBFS": -7.36,
+    "correlation": 0.988,
+    "side_to_mid_dB": -22.3,
+    "mono_loss_dB": -0.03,
+    "low_side_to_mid_dB": -28.94,
+    "band_energy_percent": {
+      "20-130Hz": 7.45,
+      "130-650Hz": 76.52,
+      "650-2000Hz": 13.15,
+      "2000-6000Hz": 2.62,
+      "6000-20000Hz": 0.25
+    },
+    "air_band_fraction": 0.007058798410253095,
+    "body_band_fraction": 0.662507579641681
+  },
+  {
+    "case": "default",
+    "rms_dBFS": -19.67,
+    "peak_dBFS": -7.38,
+    "correlation": 0.977,
+    "side_to_mid_dB": -19.09,
+    "mono_loss_dB": -0.05,
+    "low_side_to_mid_dB": -26.43,
+    "band_energy_percent": {
+      "20-130Hz": 7.6,
+      "130-650Hz": 75.1,
+      "650-2000Hz": 14.29,
+      "2000-6000Hz": 2.75,
+      "6000-20000Hz": 0.26
+    },
+    "air_band_fraction": 0.007415177671915384,
+    "body_band_fraction": 0.6698173727676165
+  },
+  {
+    "case": "heaven-chord",
+    "rms_dBFS": -17.84,
+    "peak_dBFS": -5.26,
+    "correlation": 0.974,
+    "side_to_mid_dB": -18.82,
+    "mono_loss_dB": -0.06,
+    "low_side_to_mid_dB": -26.12,
+    "band_energy_percent": {
+      "20-130Hz": 4.88,
+      "130-650Hz": 62.02,
+      "650-2000Hz": 26.96,
+      "2000-6000Hz": 5.65,
+      "6000-20000Hz": 0.48
+    },
+    "air_band_fraction": 0.015178080844272494,
+    "body_band_fraction": 0.7371403698035354
+  },
+  {
+    "case": "size0-dry",
+    "rms_dBFS": -17.55,
+    "peak_dBFS": -6.63,
+    "correlation": 1.0,
+    "side_to_mid_dB": -51.31,
+    "mono_loss_dB": -0.0,
+    "low_side_to_mid_dB": -54.63,
+    "band_energy_percent": {
+      "20-130Hz": 18.31,
+      "130-650Hz": 59.54,
+      "650-2000Hz": 18.09,
+      "2000-6000Hz": 3.71,
+      "6000-20000Hz": 0.35
+    },
+    "air_band_fraction": 0.009856995152628226,
+    "body_band_fraction": 0.5913202032198738
+  },
+  {
+    "case": "size100-dry",
+    "rms_dBFS": -19.26,
+    "peak_dBFS": -6.3,
+    "correlation": 0.957,
+    "side_to_mid_dB": -16.59,
+    "mono_loss_dB": -0.09,
+    "low_side_to_mid_dB": -21.98,
+    "band_energy_percent": {
+      "20-130Hz": 7.56,
+      "130-650Hz": 82.14,
+      "650-2000Hz": 8.41,
+      "2000-6000Hz": 1.73,
+      "6000-20000Hz": 0.16
+    },
+    "air_band_fraction": 0.004791892997443501,
+    "body_band_fraction": 0.566039640394499
+  }
+]

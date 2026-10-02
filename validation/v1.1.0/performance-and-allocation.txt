@@ -1,0 +1,3 @@
+6 voices: processing/realtime 1.69051%, worst block 0.096875 ms, C++ allocations 0
+16 voices: processing/realtime 3.7154%, worst block 0.316375 ms, C++ allocations 0
+Oversized callback with dense MIDI: C++ allocations 0

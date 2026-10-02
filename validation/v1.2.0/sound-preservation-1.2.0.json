@@ -1,0 +1,38 @@
+[
+  {
+    "render": "same-old-settings.wav",
+    "identical_to_1_1_0": true
+  },
+  {
+    "render": "body0-dry.wav",
+    "identical_to_1_1_0": true
+  },
+  {
+    "render": "default-dry.wav",
+    "identical_to_1_1_0": true
+  },
+  {
+    "render": "body100-dry.wav",
+    "identical_to_1_1_0": true
+  },
+  {
+    "render": "size0-dry.wav",
+    "identical_to_1_1_0": true
+  },
+  {
+    "render": "size100-dry.wav",
+    "identical_to_1_1_0": true
+  },
+  {
+    "render": "default.wav",
+    "identical_to_1_1_0": true
+  },
+  {
+    "render": "air100-dry.wav",
+    "identical_to_1_1_0": true
+  },
+  {
+    "render": "air0-dry.wav",
+    "identical_to_1_1_0": true
+  }
+]

@@ -1,0 +1,3 @@
+Version 1.1.0
+/Library/Audio/Plug-Ins/VST3/Heaven Saw Synth.vst3
+All installed file hashes match the validated build; strict signature verification passed; arm64.

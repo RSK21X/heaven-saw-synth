@@ -1,0 +1,5 @@
+Installed: /Library/Audio/Plug-Ins/VST3/Heaven Saw Synth.vst3
+Version: 1.2.0
+Architecture: arm64
+All installed files match the validated build.
+Strict signature verification passed.
